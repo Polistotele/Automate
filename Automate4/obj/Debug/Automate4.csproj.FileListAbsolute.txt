@@ -1,0 +1,10 @@
+C:\Users\moham\source\repos\Automate4\Automate4\bin\Debug\Automate4.exe.config
+C:\Users\moham\source\repos\Automate4\Automate4\bin\Debug\Automate4.exe
+C:\Users\moham\source\repos\Automate4\Automate4\bin\Debug\Automate4.pdb
+C:\Users\moham\source\repos\Automate4\Automate4\obj\Debug\Automate4.csprojAssemblyReference.cache
+C:\Users\moham\source\repos\Automate4\Automate4\obj\Debug\Automate4.Form1.resources
+C:\Users\moham\source\repos\Automate4\Automate4\obj\Debug\Automate4.Properties.Resources.resources
+C:\Users\moham\source\repos\Automate4\Automate4\obj\Debug\Automate4.csproj.GenerateResource.cache
+C:\Users\moham\source\repos\Automate4\Automate4\obj\Debug\Automate4.csproj.CoreCompileInputs.cache
+C:\Users\moham\source\repos\Automate4\Automate4\obj\Debug\Automate4.exe
+C:\Users\moham\source\repos\Automate4\Automate4\obj\Debug\Automate4.pdb
